@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: #222;
+}
+
+h1 {
+    color: rgb(45, 45, 211);
+}
+
+#btn {
+    width: 100px;
+    height: 50px; 
+    font-size: 20px;
+    border: 1px solid black;
+    background-color: rgb(33, 124, 38);
+    color: aliceblue;
+}
+
+#result {
+    background-color: rgb(44, 153, 53);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#frame{
+    background-color: white;
+    width: 370px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 30px;
+}

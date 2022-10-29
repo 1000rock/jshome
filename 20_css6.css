@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: blue
+}
+
+.btn {
+    font-size: 18px;
+    width: 200px;
+    height: 70px;
+    margin: 10px;
+    text-align: center;
+    line-height: 70px;
+    border-radius: 10px;
+    border: 4mm ridge rgba(20, 48, 73, 50);
+    background-color: aqua;
+}
+
+.btn:hover{
+    font-size: 20px;
+    background-color: rgb(75, 149, 245);
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+}
